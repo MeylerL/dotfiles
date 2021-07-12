@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucymeyler@hotmail.co.uk
+	name = Lucy Meyler
